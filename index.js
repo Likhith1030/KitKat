@@ -18,4 +18,4 @@ $("#main-nav a").on("click", function (event) {
   }
 });
 // Get the current year for the copyright
-$("#year").text(new Date().getFullYear());
+// $("#year").text(new Date().getFullYear());
